@@ -22,8 +22,11 @@ I am communicative and good team worker and  willing to learn new skills. My goa
 ## Code Examples
 
 function helloWorld() {
+
     let greeting = "Hello World."
+
     console.log(greeting);
+    
 }
 
 ## Education
